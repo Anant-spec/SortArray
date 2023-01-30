@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: SortArray, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>SortArray -> C:\Users\Asus\source\repos\SortArray\bin\Debug\net6.0\SortArray.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:02.606 ==========
